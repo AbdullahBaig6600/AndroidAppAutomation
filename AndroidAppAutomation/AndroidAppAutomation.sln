@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidAppAutomation", "AndroidAppAutomation.csproj", "{A640C24D-C98A-493A-A58D-7260DDB0CDEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A640C24D-C98A-493A-A58D-7260DDB0CDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A640C24D-C98A-493A-A58D-7260DDB0CDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A640C24D-C98A-493A-A58D-7260DDB0CDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A640C24D-C98A-493A-A58D-7260DDB0CDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47553F0D-968F-42E6-BAB1-3F55E4C1F7D3}
+	EndGlobalSection
+EndGlobal
